@@ -26,7 +26,7 @@ Columns = total_bill, tip, sex, smoker, day, time, size (number of people in the
 ![data set image](https://user-images.githubusercontent.com/47428283/69493832-c5443700-0eab-11ea-9388-d0682e1e9990.png)
 
 
-## These are the foundings :
+## These are the foundings/Regression :
 
 1. majority of parties spent less than 20USD and tipped less than 4USD
 2. the highest total bill was 50.81USD and the highest tip was 10USD
@@ -42,6 +42,11 @@ Columns = total_bill, tip, sex, smoker, day, time, size (number of people in the
 12. 50.81 maximum of total bill
 13. 1.0 minimum of tips
 14. 10.0 maximum of tips
+
+This is a summery of means of various attributes
+![matome](https://user-images.githubusercontent.com/47428283/69503572-c8bed900-0f12-11ea-8c67-e79c7e3d51bf.jpg)
+
+
 
 This plot showed male customers of total bils and tips
 ![male total bills and tips](https://user-images.githubusercontent.com/47428283/69493907-dccfef80-0eac-11ea-944d-00340d8db9ae.jpg)
@@ -61,3 +66,7 @@ This plot showed lunch and dinner in one plot/
 ![combined lunch and dinner ](https://user-images.githubusercontent.com/47428283/69494636-fcb7e100-0eb5-11ea-93b2-dc42287784b3.jpg)
 ![lunch and dinner subplot](https://user-images.githubusercontent.com/47428283/69494641-03deef00-0eb6-11ea-8962-cffc13463b60.jpg)
 
+## Analysis of data sets
+
+This restaurant customers tend to spend more towards weekend. Sunday is the best day for the resutaurant to receive the larger amount of bills and tips. Also, dinner time would be better than lunch time for this restaurant. I would suggest to add more staff on weekends dinner time. 
+Average totall bills and tips on different aspects in excel screenshot backed up this recommendation. 
