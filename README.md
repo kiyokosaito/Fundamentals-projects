@@ -6,7 +6,7 @@ Deadline/last commit on or before 29th Nov.
 
 What I will do on this project as follows.
 
-Description
+## Description
 I will cover what overall 'Tips' data set is about in this description section. 
 
 Git hub URL :[link](https://github.com/kiyokosaito/Fundamentals-projects)
@@ -15,7 +15,7 @@ About Tips data set
 
 The dataset contains a set of 244 records under 7 attributes -total_bill, tip, sex, smoker, day, time and size(how many people in the party)
 
-Acknowledgements
+## Acknowledgements
 This dataset is adapted from [link](https://github.com/mwaskom/seaborn-data/blob/master/tips.csv)
 
 Data Sources - URL [link](https://docs.google.com/spreadsheets/d/1Ihgub6a2AoSL9V0iCM6Zb6xoEaZnzK_pBlGTv6bTM2s/edit?usp=sharing)
@@ -26,7 +26,7 @@ Columns = total_bill, tip, sex, smoker, day, time, size (number of people in the
 ![data set image](https://user-images.githubusercontent.com/47428283/69493832-c5443700-0eab-11ea-9388-d0682e1e9990.png)
 
 
-These are the foundings :
+## These are the foundings :
 
 1. majority of parties spent less than 20USD and tipped less than 4USD
 2. the highest total bill was 50.81USD and the highest tip was 10USD
